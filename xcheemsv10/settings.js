@@ -17,7 +17,7 @@ global.location = "East Africa,Kenya,Nairobi l" //ur location
 
 //new
 global.botname = 'n͜͡önesence ×'' //ur bot name
-global.ownernumber = '254794286079'' //ur owner number
+global.ownernumber = '254700569709'' //ur owner number
 global.ownername = '𓃰G̳̿͟͞E̳̿͟͞E̳̿͟͞𓀛'//ur owner name
 global.websitex = "https://youtu.be/-Omye-W0pTE"
 global.wagc = "https://whatsapp.com/channel/0029VaITQanBadmjgqhfGq1h"

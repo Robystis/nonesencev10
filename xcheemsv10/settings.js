@@ -26,19 +26,19 @@ global.wm = "just nonesence"
 global.botscript = 'what are you doing 😂😂😂❌❌❌' //script link
 global.packname = "nonesence by"
 global.author = "亗『ＧＥＥ』亗\n\n+254794286079"
-global.creator = "254794286079@s.whatsapp.net"
+global.creator = "254700569709@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["254794286079"] // Premium User
+global.premium = ["254700569709"] // Premium User
 global.hituet = 0
 
 //bot sett
-global.typemenu = 'v8' // menu type 'v1' => 'v8'
+global.typemenu = 'v4' // menu type 'v1' => 'v8'
 global.typereply = 'v2' // reply type 'v1' => 'v3'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
 global.welcome = false //welcome/left in groups
 global.anticall = false //bot blocks user when called
-global.autoswview = false //auto status/story view
+global.autoswview = true //auto status/story view
 global.adminevent = false //show promote/demote message
 global.groupevent = false //show update messages in group chat
 //msg

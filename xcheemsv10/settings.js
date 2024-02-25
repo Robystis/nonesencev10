@@ -11,7 +11,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //owmner v card
-global.ytname = "YT: nonesence "//ur yt chanel name
+global.ytname = "YT: NICKMERLIN"//ur yt chanel name
 global.socialm = "GitHub: Geemkuu" //ur github or insta name
 global.location = "East Africa,Kenya,Nairobi l" //ur location
 
@@ -21,14 +21,14 @@ global.ownernumber = '254700569709'' //ur owner number
 global.ownername = '𓃰G̳̿͟͞E̳̿͟͞E̳̿͟͞𓀛'//ur owner name
 global.websitex = "https://youtu.be/-Omye-W0pTE"
 global.wagc = "https://whatsapp.com/channel/0029VaITQanBadmjgqhfGq1h"
-global.themeemoji = '♠️'
+global.themeemoji = '👑'
 global.wm = "just nonesence"
 global.botscript = 'what are you doing 😂😂😂❌❌❌' //script link
-global.packname = "nonesence by"
-global.author = "亗『ＧＥＥ』亗\n\n+254794286079"
-global.creator = "254700569709@s.whatsapp.net"
+global.packname = "NICKlyzed by"
+global.author = "亗『ＧＥＥ』亗\n\n+254718382875"
+global.creator = "254718382875@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["254700569709"] // Premium User
+global.premium = ["254718382875"] // Premium User
 global.hituet = 0
 
 //bot sett
